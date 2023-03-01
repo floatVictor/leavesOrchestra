@@ -1,0 +1,27 @@
+{
+	"files_number": 300,
+	"total_duration": 35985.425199999845,
+
+	"first date": "2018-01-09",
+	"last date": "2020-02-28",
+
+	"min_sd_audio": 128.7576,
+	"max_sd_audio": 5602.1549,
+	"avg_sd_audio": 1161.2932606666675,
+	"std_sd_audio": 1024.6331904156748,
+
+	"min_bioindex": 1.1928,
+	"max_bioindex": 25.6356,
+	"avg_bioindex": 11.229551333333337,
+	"std_bioindex": 5.111450098165055,
+
+	"min_ac_complexity_all": 3370.6879,
+	"max_ac_complexity_all": 3883.6555,
+	"avg_ac_complexity_all": 3559.791378666667,
+	"std_ac_complexity_all": 83.2644378066071,
+
+	"min_spectral_entropy": 0.574,
+	"max_spectral_entropy": 0.8749,
+	"avg_spectral_entropy": 0.7549010000000002,
+	"std_spectral_entropy": 0.05472578641737367
+}
